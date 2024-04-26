@@ -4,6 +4,7 @@ Hello! I am currently studying at School of Code learning a plethora of differen
 
 
 🔭 I’m currently working on my personal website!
+
 🌱 I’m currently learning Tailwind
 
 # Pinned Projects 📌
