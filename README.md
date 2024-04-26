@@ -9,10 +9,10 @@ Hello! I am currently studying at School of Code learning a plethora of differen
 
 # Pinned Projects 📌
 
-### donaldliu-portfolio 😇
-### push-pull 💪
-### gessuer-api ❓
-### travel-site 🧳
+### 65%   donaldliu-portfolio
+### 0%    push-pull    
+### 10%   gessuer-api
+### 100%  travel-site
 
 # Achivements
 ![Codewars Badge](https://www.codewars.com/users/donaldliu1/badges/large)
