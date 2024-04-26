@@ -9,12 +9,12 @@ Hello! I am currently studying at School of Code learning a plethora of differen
 
 # Pinned Projects 📌
 
-| Completion | Repository | Focus of project |
+| Stage | Repository | Focus learning point |
 |----------|----------|----------|
-| 65% | donaldliu-portfolio |  |
-| 0% | push-pull |  |
-| 10% | gessuer-api |  |
-| 100% | travel-site |  |
+| Coding | donaldliu-portfolio | Tailwind, Next.js, TypeScript |
+| Planning | push-pull | REST API, Github Actions |
+| Coding | gessuer-api | PostgreSQL, JavaScript, CSS |
+| Completed | travel-site | HTML, CSS |
 
 # Achivements
 ![Codewars Badge](https://www.codewars.com/users/donaldliu1/badges/large)
