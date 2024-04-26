@@ -14,7 +14,7 @@ Hello! I am currently studying at School of Code learning a plethora of differen
 | Coding | donaldliu-portfolio | Tailwind, Next.js, TypeScript |
 | Planning | push-pull | REST API, Github Actions |
 | Coding | gessuer-api | PostgreSQL, JavaScript, CSS |
-| Completed | travel-site | HTML, CSS |
+| Completed | travel-site | HTML, CSS, Github |
 
 # Achivements
 ![Codewars Badge](https://www.codewars.com/users/donaldliu1/badges/large)
