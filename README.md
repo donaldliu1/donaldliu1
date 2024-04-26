@@ -31,4 +31,12 @@ Hello! I am currently studying at School of Code learning a plethora of differen
 ![Codewars Badge](https://www.codewars.com/users/donaldliu1/badges/large)
 </details>
 
+<details>
+  <summary> Productivity hours </summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![Waka readme stats](https://www.codewars.com/users/donaldliu1/badges/large)
+</details>
 
