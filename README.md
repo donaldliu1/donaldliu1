@@ -29,5 +29,6 @@ Hello! I am currently studying at School of Code learning a plethora of differen
 <details>
   <summary> Codewars Badge </summary>
 ![Codewars Badge](https://www.codewars.com/users/donaldliu1/badges/large)
+  
 </details>
 
