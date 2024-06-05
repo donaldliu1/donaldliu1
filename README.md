@@ -11,6 +11,7 @@ Hello! I am currently studying at School of Code learning a plethora of differen
 
 | Stage | Repository | Focus learning point |
 |----------|----------|----------|
+| Completed | Fauna Green Living | Shopify, Next.js, TypeScript  |
 | Coding | donaldliu-portfolio | Tailwind, Next.js, TypeScript |
 | Planning | push-pull | REST API, Github Actions |
 | Coding | gessuer-api | PostgreSQL, JavaScript, CSS |
