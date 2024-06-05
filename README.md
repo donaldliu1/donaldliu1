@@ -3,7 +3,7 @@
 Hello! I am currently studying at School of Code learning a plethora of different languages and software, looking to challenge myself, I've made several passion projects to help me learn along the way! Have a look 😊
 
 
-🔭 I’m currently working on my personal website!
+🔭 I’m currently working on creating handover documentation for our deployed and finished project!
 
 🌱 I’m currently learning Tailwind
 
@@ -12,10 +12,8 @@ Hello! I am currently studying at School of Code learning a plethora of differen
 | Stage | Repository | Focus learning point |
 |----------|----------|----------|
 | Completed | Fauna Green Living | Shopify, Next.js, TypeScript  |
-| Coding | donaldliu-portfolio | Tailwind, Next.js, TypeScript |
-| Planning | push-pull | REST API, Github Actions |
-| Coding | gessuer-api | PostgreSQL, JavaScript, CSS |
 | Completed | travel-site | HTML, CSS, Github |
+| Coding | donaldliu-portfolio | Tailwind, Next.js, TypeScript |
 
 # Fun stuff 😋
 <details>
