@@ -11,7 +11,7 @@ Hello! I am currently studying at School of Code learning a plethora of differen
 
 | Stage | Repository | Focus learning point |
 |----------|----------|----------|
-| Completed | Fauna Green Living | Shopify, Next.js, TypeScript  |
+| Completed | ![Fauna Green Living](https://github.com/oscaroneim/fauna-green-living) | Shopify, Next.js, TypeScript  |
 | Completed | travel-site | HTML, CSS, Github |
 | Coding | donaldliu-portfolio | Tailwind, Next.js, TypeScript |
 
