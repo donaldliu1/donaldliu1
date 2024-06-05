@@ -13,7 +13,7 @@ Hello! I am currently studying at School of Code learning a plethora of differen
 |----------|----------|----------|
 | Completed | [Fauna Green Living](https://github.com/oscaroneim/fauna-green-living) | Shopify, Next.js, TypeScript  |
 | Completed | [School of Code - First Project](https://github.com/donaldliu1/SOC-Warm-up) | HTML, CSS, Github |
-| Coding | [donaldliu-portfolio](https://github.com/donaldliu1/donaldliu-portfolio) | Tailwind, Next.js, TypeScript |
+| Coding | [Website Portfolio](https://github.com/donaldliu1/donaldliu-portfolio) | Tailwind, Next.js, TypeScript |
 
 # Fun stuff 😋
 <details>
