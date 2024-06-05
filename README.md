@@ -1,7 +1,9 @@
 # About me 🤓
 
 😊 Hello! I am currently studying at School of Code learning a plethora of different languages and software, looking to challenge myself, I've made several passion projects to help me learn along the way! Have a look 
+
 🎓 I've always been into coding having done Software Development in College and a bit of Python while studying at University of Salford! 
+
 💻 Through School of Code bootcamp it's helped me push me out of my comfort zone and really reinforce my passion towards joining the tech industry 
 
 
