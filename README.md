@@ -1,12 +1,12 @@
 # About me 🤓
 
-😊 Hello! I am currently studying at the School of Code, learning a plethora of different languages and software. Looking to challenge myself, I've made several passion projects to help me learn along the way! Have a look.
+😊 Hello! I just finished studying at the School of Code, learning a plethora of different languages and software. Looking to challenge myself, I've made several passion projects to help me learn along the way! Have a look.
 
 🎓 I've always been into coding, having done Software Development in college and a bit of Python while studying at the University of Salford.
 
 💻 The School of Code bootcamp has helped push me out of my comfort zone and really reinforced my passion for joining the tech industry.
 
-🔭 I’m currently working on creating handover documentation for our deployed and finished project!
+🔭 I’m currently working on my own personal project which is centered around Pokemon TCG!
 
 🌱 I’m currently learning Tailwind.
 
