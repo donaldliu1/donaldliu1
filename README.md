@@ -6,7 +6,7 @@
 
 💻 The School of Code bootcamp has helped push me out of my comfort zone and really reinforced my passion for joining the tech industry.
 
-🔭 I’m currently working on my own personal project which is centered around Pokemon TCG!
+🔭 I’m currently working on my own personal project which is centered around Pokemon TCG and finshing up the last little bits of my website!
 
 🌱 I’m currently learning Tailwind.
 
