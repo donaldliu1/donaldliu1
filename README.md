@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on my own personal project which is centered around Pokemon TCG and finshing up the last little bits of my website!
 
-🌱 I’m currently learning Tailwind.
+🌱 I’m currently reworking my portfolio!
 
 
 
