@@ -18,7 +18,7 @@
 |----------|----------|----------|
 | Completed | [Fauna Green Living](https://github.com/oscaroneim/fauna-green-living) | Shopify, Next.js, TypeScript  |
 | Completed | [School of Code - First Project](https://github.com/donaldliu1/SOC-Warm-up) | HTML, CSS, Github |
-| Coding | [Website Portfolio](https://github.com/donaldliu1/donaldliu-portfolio) | Tailwind, Next.js, TypeScript |
+| Coding | [Website Portfolio](https://github.com/donaldliu1/donald-portfolio) | Tailwind, Next.js, TypeScript |
 | Coding | [PokePull](https://github.com/donaldliu1/PokePull) | RESTful API, MongoDB, Mongoose |
 
 # Fun stuff 😋
